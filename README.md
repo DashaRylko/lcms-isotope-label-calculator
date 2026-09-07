@@ -2,6 +2,8 @@
 
 An interactive **R Shiny application** for calculating molecular isotopic distributions and evaluating potential isotopic interference when selecting isotope-labelled internal standards for **LC-MS/MS analysis**.
 
+<img width="1920" height="885" alt="image" src="https://github.com/user-attachments/assets/8cd39bbf-cbb4-4cec-ba9b-fad27a85276a" />
+
 ## Overview
 
 Stable isotope-labelled internal standards are widely used in quantitative LC-MS/MS analysis. When selecting an isotope-labelled analogue, the mass difference between the analyte and the internal standard should be sufficiently large to minimize interference from naturally occurring isotopes of the analyte.
